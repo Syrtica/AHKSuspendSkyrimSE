@@ -1,7 +1,7 @@
 ## Description
 
 - Suspends or resumes `SkyrimSE.exe` with `\`.
-- Has a 1-second lockout to avoid overlapping calls (just in case).
+- Has a 1-second lockout for safety's sake.
 - Shows a tooltip on pause/resume to make the lockout clear.
 
 > [!IMPORTANT]
